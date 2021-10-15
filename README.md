@@ -27,3 +27,4 @@ WEB INSTALL
 2. load the project.
 
 # Notes
+If you are using mac os, Please ignore Gatekeeper warnings by opening Finder > Navigating to the application > Right click > Open > Open.
