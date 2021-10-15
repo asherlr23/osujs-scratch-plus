@@ -25,3 +25,5 @@ WEB INSTALL
 
 1. Go [here](https://turbowarp.org/editor?size=1280x720&interpolate&clones=Infinity&offscreen&limitless)
 2. load the project.
+
+# Notes
